@@ -1,0 +1,43 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * effra-cc:
+ *   - http://typekit.com/eulas/000000000000000077375317
+ *   - http://typekit.com/eulas/000000000000000077375320
+ *   - http://typekit.com/eulas/00000000000000007737531a
+ *   - http://typekit.com/eulas/000000000000000077375322
+ *
+ * © 2009-2025 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2023-08-31 08:53:05 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"effra-cc";
+src:url("af/601387/000000000000000077375317/30/l") format("woff2"),url("af/601387/000000000000000077375317/30/d") format("woff"),url("af/601387/000000000000000077375317/30/a") format("opentype");
+font-display:swap;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"effra-cc";
+src:url("af/37d244/000000000000000077375320/30/l") format("woff2"),url("af/37d244/000000000000000077375320/30/d") format("woff"),url("af/37d244/000000000000000077375320/30/a") format("opentype");
+font-display:swap;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"effra-cc";
+src:url("af/8fc1cf/00000000000000007737531a/30/l") format("woff2"),url("af/8fc1cf/00000000000000007737531a/30/d") format("woff"),url("af/8fc1cf/00000000000000007737531a/30/a") format("opentype");
+font-display:swap;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"effra-cc";
+src:url("af/dd0ddb/000000000000000077375322/30/l") format("woff2"),url("af/dd0ddb/000000000000000077375322/30/d") format("woff"),url("af/dd0ddb/000000000000000077375322/30/a") format("opentype");
+font-display:swap;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+.tk-effra-cc { font-family: "effra-cc",sans-serif; }

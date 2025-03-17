@@ -1,0 +1,1572 @@
+Uri: https://cdn.jsdelivr.net/momentjs/latest/moment.min.js
+File Name: D:\Software Development\web-clones\www.papgroup.gr\momentjs\latest\moment.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css
+File Name: D:\Software Development\web-clones\www.papgroup.gr\npm\daterangepicker\daterangepicker.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js
+File Name: D:\Software Development\web-clones\www.papgroup.gr\npm\daterangepicker\daterangepicker.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js
+File Name: D:\Software Development\web-clones\www.papgroup.gr\ajax\libs\jquery-cookie\1.4.1\jquery.cookie.js
+Content Type: application/javascript
+
+Uri: https://p.typekit.net/p.css?s=1&k=xsl5oar&ht=tk&f=51451.51455.51461.51465&a=85767220&app=typekit&e=css
+File Name: D:\Software Development\web-clones\www.papgroup.gr\p.css
+Content Type: text/css
+
+Uri: https://use.typekit.net/af/37d244/000000000000000077375320/30/a?primer=2c525e945db23ca903c9e53f7672c72b14fc41c424013235fbe023be98740bd1&fvd=n5&v=3
+File Name: D:\Software Development\web-clones\www.papgroup.gr\af\37d244\000000000000000077375320\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/37d244/000000000000000077375320/30/d?primer=2c525e945db23ca903c9e53f7672c72b14fc41c424013235fbe023be98740bd1&fvd=n5&v=3
+File Name: D:\Software Development\web-clones\www.papgroup.gr\af\37d244\000000000000000077375320\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/37d244/000000000000000077375320/30/l?primer=2c525e945db23ca903c9e53f7672c72b14fc41c424013235fbe023be98740bd1&fvd=n5&v=3
+File Name: D:\Software Development\web-clones\www.papgroup.gr\af\37d244\000000000000000077375320\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/601387/000000000000000077375317/30/a?primer=2c525e945db23ca903c9e53f7672c72b14fc41c424013235fbe023be98740bd1&fvd=n7&v=3
+File Name: D:\Software Development\web-clones\www.papgroup.gr\af\601387\000000000000000077375317\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/601387/000000000000000077375317/30/d?primer=2c525e945db23ca903c9e53f7672c72b14fc41c424013235fbe023be98740bd1&fvd=n7&v=3
+File Name: D:\Software Development\web-clones\www.papgroup.gr\af\601387\000000000000000077375317\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/601387/000000000000000077375317/30/l?primer=2c525e945db23ca903c9e53f7672c72b14fc41c424013235fbe023be98740bd1&fvd=n7&v=3
+File Name: D:\Software Development\web-clones\www.papgroup.gr\af\601387\000000000000000077375317\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/8fc1cf/00000000000000007737531a/30/a?primer=2c525e945db23ca903c9e53f7672c72b14fc41c424013235fbe023be98740bd1&fvd=n4&v=3
+File Name: D:\Software Development\web-clones\www.papgroup.gr\af\8fc1cf\00000000000000007737531a\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/8fc1cf/00000000000000007737531a/30/d?primer=2c525e945db23ca903c9e53f7672c72b14fc41c424013235fbe023be98740bd1&fvd=n4&v=3
+File Name: D:\Software Development\web-clones\www.papgroup.gr\af\8fc1cf\00000000000000007737531a\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/8fc1cf/00000000000000007737531a/30/l?primer=2c525e945db23ca903c9e53f7672c72b14fc41c424013235fbe023be98740bd1&fvd=n4&v=3
+File Name: D:\Software Development\web-clones\www.papgroup.gr\af\8fc1cf\00000000000000007737531a\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/dd0ddb/000000000000000077375322/30/a?primer=2c525e945db23ca903c9e53f7672c72b14fc41c424013235fbe023be98740bd1&fvd=n6&v=3
+File Name: D:\Software Development\web-clones\www.papgroup.gr\af\dd0ddb\000000000000000077375322\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/dd0ddb/000000000000000077375322/30/d?primer=2c525e945db23ca903c9e53f7672c72b14fc41c424013235fbe023be98740bd1&fvd=n6&v=3
+File Name: D:\Software Development\web-clones\www.papgroup.gr\af\dd0ddb\000000000000000077375322\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/dd0ddb/000000000000000077375322/30/l?primer=2c525e945db23ca903c9e53f7672c72b14fc41c424013235fbe023be98740bd1&fvd=n6&v=3
+File Name: D:\Software Development\web-clones\www.papgroup.gr\af\dd0ddb\000000000000000077375322\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/xsl5oar.css
+File Name: D:\Software Development\web-clones\www.papgroup.gr\xsl5oar.css
+Content Type: text/css
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: D:\Software Development\web-clones\www.papgroup.gr\recaptcha\api-1.js
+Content Type: text/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?render=6LdoMRApAAAAALkR8TzhEbGMDpVjA8bV1KSQcP0T
+File Name: D:\Software Development\web-clones\www.papgroup.gr\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.papgroup.gr/
+File Name: D:\Software Development\web-clones\www.papgroup.gr\index.htm
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/15th-anniversary-of-pca-99
+File Name: D:\Software Development\web-clones\www.papgroup.gr\15th-anniversary-of-pca-99.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/about-us
+File Name: D:\Software Development\web-clones\www.papgroup.gr\about-us.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/big-5-global-106
+File Name: D:\Software Development\web-clones\www.papgroup.gr\big-5-global-106.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/big-5-saudi-construct-110
+File Name: D:\Software Development\web-clones\www.papgroup.gr\big-5-saudi-construct-110.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/careers
+File Name: D:\Software Development\web-clones\www.papgroup.gr\careers.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/certifications
+File Name: D:\Software Development\web-clones\www.papgroup.gr\certifications.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/chenia-echiivition-2024-124
+File Name: D:\Software Development\web-clones\www.papgroup.gr\chenia-echiivition-2024-124.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/contact
+File Name: D:\Software Development\web-clones\www.papgroup.gr\contact.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/cookie-policy-1qfae
+File Name: D:\Software Development\web-clones\www.papgroup.gr\cookie-policy-1qfae.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/downloads
+File Name: D:\Software Development\web-clones\www.papgroup.gr\downloads.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/fonts/vendor/lightgallery/lg.svg?09cd8e9be7081f2166444cce393fe968
+File Name: D:\Software Development\web-clones\www.papgroup.gr\fonts\vendor\lightgallery\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://www.papgroup.gr/fonts/vendor/lightgallery/lg.ttf?747d038541bfc6bb8ea9118bed9c160e
+File Name: D:\Software Development\web-clones\www.papgroup.gr\fonts\vendor\lightgallery\lg.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.papgroup.gr/fonts/vendor/lightgallery/lg.woff2?64b800aa30714fd916dce5018ba7ad76
+File Name: D:\Software Development\web-clones\www.papgroup.gr\fonts\vendor\lightgallery\lg.woff2
+Content Type: font/woff2
+
+Uri: https://www.papgroup.gr/fonts/vendor/lightgallery/lg.woff?356a0e9cb064c7a196c612ebf7523686
+File Name: D:\Software Development\web-clones\www.papgroup.gr\fonts\vendor\lightgallery\lg.woff
+Content Type: application/font-woff
+
+Uri: https://www.papgroup.gr/heritage-hill-65
+File Name: D:\Software Development\web-clones\www.papgroup.gr\heritage-hill-65.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/images/vendor/lightgallery/loading.gif?fcba57cdb89652f9bb54271cc5a9cc0e
+File Name: D:\Software Development\web-clones\www.papgroup.gr\images\vendor\lightgallery\loading.gif
+Content Type: image/gif
+
+Uri: https://www.papgroup.gr/modernist-31
+File Name: D:\Software Development\web-clones\www.papgroup.gr\modernist-31.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/news-articles
+File Name: D:\Software Development\web-clones\www.papgroup.gr\news-articles.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/onoma-hotel-30
+File Name: D:\Software Development\web-clones\www.papgroup.gr\onoma-hotel-30.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/papgroup/css/final-app.css?id=0d6c7bb8d4c638caf93b3882f38c5774
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\css\final-app.css
+Content Type: text/css
+
+Uri: https://www.papgroup.gr/papgroup/favicon/apple-touch-icon-114x114.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\favicon\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/papgroup/favicon/apple-touch-icon-120x120.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\favicon\apple-touch-icon-120x120.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/papgroup/favicon/apple-touch-icon-144x144.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\favicon\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/papgroup/favicon/apple-touch-icon-152x152.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\favicon\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/papgroup/favicon/apple-touch-icon-57x57.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\favicon\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/papgroup/favicon/apple-touch-icon-60x60.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\favicon\apple-touch-icon-60x60.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/papgroup/favicon/apple-touch-icon-72x72.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\favicon\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/papgroup/favicon/apple-touch-icon-76x76.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\favicon\apple-touch-icon-76x76.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/papgroup/favicon/favicon-128.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\favicon\favicon-128.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/papgroup/favicon/favicon-16x16.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/papgroup/favicon/favicon-196x196.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\favicon\favicon-196x196.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/papgroup/favicon/favicon-32x32.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/papgroup/favicon/favicon-96x96.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\favicon\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/papgroup/favicon/favicon.ico
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\favicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.papgroup.gr/papgroup/images/gif/loader.gif
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\images\gif\loader.gif
+Content Type: image/gif
+
+Uri: https://www.papgroup.gr/papgroup/images/icons/check.svg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\images\icons\check.svg
+Content Type: image/svg+xml
+
+Uri: https://www.papgroup.gr/papgroup/images/icons/zoom-in.svg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\images\icons\zoom-in.svg
+Content Type: image/svg+xml
+
+Uri: https://www.papgroup.gr/papgroup/js/final-app.js?id=078d45229970eb0e4590760e58d0326f
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\js\final-app.js
+Content Type: application/x-javascript
+
+Uri: https://www.papgroup.gr/papgroup/js/theme-toggle.js?id=e2a352e5c2fa624dddbd7751fac9faef
+File Name: D:\Software Development\web-clones\www.papgroup.gr\papgroup\js\theme-toggle.js
+Content Type: application/x-javascript
+
+Uri: https://www.papgroup.gr/pca-in-riba-awards-2021-for-excellence-98
+File Name: D:\Software Development\web-clones\www.papgroup.gr\pca-in-riba-awards-2021-for-excellence-98.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/portal-img/about_vision/1/img-6666.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\about_vision\1\img-6666.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/about_vision/1/sfs-1733.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\about_vision\1\sfs-1733.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/about_vision/1/sfs-1800.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\about_vision\1\sfs-1800.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/about_vision/1/sfs-4752.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\about_vision\1\sfs-4752.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/careers_featured/1/image-29-9-23-at-600-pm.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\careers_featured\1\image-29-9-23-at-600-pm.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/default/1/0202-pca-windbreaker-site.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\default\1\0202-pca-windbreaker-site.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/default/1/0313-pca-arca-project-c-series-as.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\default\1\0313-pca-arca-project-c-series-as.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/default/1/0623-m-sliding-view-3-1-highr-resolution-dv-C7hkx.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\default\1\0623-m-sliding-view-3-1-highr-resolution-dv-C7hkx.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/default/1/1-07Fyf.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\default\1\1-07Fyf.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/default/1/123514581-3450508775037233-8089922740461975294-n.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\default\1\123514581-3450508775037233-8089922740461975294-n.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/default/1/281258690-5108901322531295-7969441709452204319-n.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\default\1\281258690-5108901322531295-7969441709452204319-n.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/default/1/294006662-5282159355205490-7425571016325326001-n.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\default\1\294006662-5282159355205490-7425571016325326001-n.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/default/1/4-n-T8OMJ.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\default\1\4-n-T8OMJ.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/default/1/basketball-3-of-3-wUOaZ.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\default\1\basketball-3-of-3-wUOaZ.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/default/1/bm07-final-high-resolution.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\default\1\bm07-final-high-resolution.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/portal-img/default/1/edit-swsto-3-of-6-iAkOF.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\default\1\edit-swsto-3-of-6-iAkOF.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/default/1/eikona-viber-2021-07-26-14-14-24-067.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\default\1\eikona-viber-2021-07-26-14-14-24-067.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/default/1/nai-teleftaia.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\default\1\nai-teleftaia.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/default/1/photo1.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\default\1\photo1.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/portal-img/default/1/savvas-papadopoylosresize-3-min.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\default\1\savvas-papadopoylosresize-3-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/default/1/sfs-09833.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\default\1\sfs-09833.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/default/1/sparke-12-jpg.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\default\1\sparke-12-jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/download_img/1/1.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\download_img\1\1.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/portal-img/download_img/1/minimal-cat-2025-web-page-01.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\download_img\1\minimal-cat-2025-web-page-01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/download_img/1/pages-from-sparke-digital-catalogue.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\download_img\1\pages-from-sparke-digital-catalogue.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/download_img/1/screenshot-2024-10-02-at-22502-pm.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\download_img\1\screenshot-2024-10-02-at-22502-pm.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/portal-img/download_img/1/screenshot-2024-10-03-at-12551-pm.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\download_img\1\screenshot-2024-10-03-at-12551-pm.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/portal-img/download_img/1/screenshot-2024-10-03-at-12644-pm.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\download_img\1\screenshot-2024-10-03-at-12644-pm.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/portal-img/download_img/1/stighmiotipo-othonis-2023-11-01-130111.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\download_img\1\stighmiotipo-othonis-2023-11-01-130111.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/download_img/1/stighmiotipo-othonis-2024-10-15-164900.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\download_img\1\stighmiotipo-othonis-2024-10-15-164900.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/1-glasstec-min.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\1-glasstec-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/1684493366321-bFsAO.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\1684493366321-bFsAO.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/1684493366321.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\1684493366321.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/1684493366331.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\1684493366331.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/1684493366347.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\1684493366347.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/1684493520299-TLfeN.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\1684493520299-TLfeN.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/2-min-1.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\2-min-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/2-nai-image2-1-lVERm.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\2-nai-image2-1-lVERm.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/4-n-BCvgq.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\4-n-BCvgq.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/8820f9b2-32bc-439b-8efe-768f59112f3c-min.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\8820f9b2-32bc-439b-8efe-768f59112f3c-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/9e6a6164.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\9e6a6164.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/bq7a0402.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\bq7a0402.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/bq7a0404.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\bq7a0404.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/bq7a0423.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\bq7a0423.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/bq7a0433.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\bq7a0433.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/f87d5151-c460-42f3-b2eb-513c93767a1c.jpeg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\f87d5151-c460-42f3-b2eb-513c93767a1c.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/img-1756-min.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\img-1756-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/kta09467.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\kta09467.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/sfs-02008-cAG5x.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\sfs-02008-cAG5x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/sfs-4746.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\sfs-4746.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/sfs-4806.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\sfs-4806.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/sfs-4810.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\sfs-4810.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/sfs-4854.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\sfs-4854.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/sfs-7357.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\sfs-7357.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/exhibition/1/sfs-8766.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\exhibition\1\sfs-8766.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_about/1/281258690-5108901322531295-7969441709452204319-n.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_about\1\281258690-5108901322531295-7969441709452204319-n.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_image1/1/0907-pca-sg-3-01-high-res-7Tk5l.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_image1\1\0907-pca-sg-3-01-high-res-7Tk5l.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_image1/1/single-glazed-high-resolution-web.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_image1\1\single-glazed-high-resolution-web.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/2-nai-image2-1.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\2-nai-image2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/basketball-1-of-3.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\basketball-1-of-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/basketball-2-of-3-zubjq.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\basketball-2-of-3-zubjq.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/basketball-3-of-3.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\basketball-3-of-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/edit-swsto-1-of-6-w7vlN.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\edit-swsto-1-of-6-w7vlN.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/edit-swsto-2-of-6-mBr12.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\edit-swsto-2-of-6-mBr12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/edit-swsto-3-of-6-JDVoB.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\edit-swsto-3-of-6-JDVoB.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/edit-swsto-4-of-6-wc9mJ.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\edit-swsto-4-of-6-wc9mJ.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/edit-swsto-5-of-6-zLoUy.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\edit-swsto-5-of-6-zLoUy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/edit-swsto-6-of-6-qtVMH.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\edit-swsto-6-of-6-qtVMH.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/eikona-viber-2021-07-26-14-14-24-067-7kqh8.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\eikona-viber-2021-07-26-14-14-24-067-7kqh8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/eikona-viber-2021-07-26-14-14-25-460.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\eikona-viber-2021-07-26-14-14-25-460.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/eikona-viber-2021-07-26-14-14-26-488.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\eikona-viber-2021-07-26-14-14-26-488.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/eikona-viber-2021-07-26-14-14-27-161.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\eikona-viber-2021-07-26-14-14-27-161.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/eikona-viber-2021-07-26-14-14-27-426.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\eikona-viber-2021-07-26-14-14-27-426.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/eikona-viber-2021-07-26-14-14-27-780.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\eikona-viber-2021-07-26-14-14-27-780.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/gallery4.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\gallery4.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/gallery5.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\gallery5.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/minimal-n-0wFoi.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\minimal-n-0wFoi.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/nai.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\nai.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/post-1-nai-uinmC.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\post-1-nai-uinmC.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/ready-13-L1sbo.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\ready-13-L1sbo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/ready-16.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\ready-16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/ready-18.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\ready-18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/ready-8-kwyfa.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\ready-8-kwyfa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-00120.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-00120.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-00183.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-00183.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-00215.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-00215.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-00251.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-00251.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-00272.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-00272.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-00289.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-00289.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-00314.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-00314.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-00342.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-00342.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-00449.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-00449.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-00476.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-00476.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-00525.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-00525.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-00548.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-00548.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-00643.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-00643.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-00809.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-00809.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-02008.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-02008.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-09747.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-09747.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-09833.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-09833.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-1814-SFH8W.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-1814-SFH8W.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-4263.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-4263.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-4806.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-4806.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-4815-t5DiN.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-4815-t5DiN.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-4827.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-4827.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/home_slider/1/sfs-7357.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\home_slider\1\sfs-7357.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/post_list/1/sfs-09833.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\post_list\1\sfs-09833.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projects/1/1200-fpw1d.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projects\1\1200-fpw1d.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projects/1/anatolia-hospitality-wc.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projects\1\anatolia-hospitality-wc.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projects/1/heritagehillhotel41856.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projects\1\heritagehillhotel41856.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projects/1/x7jpgpagespeedictc5xi-rket.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projects\1\x7jpgpagespeedictc5xi-rket.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projets_home_gallery/1/1-GvGgN.jpeg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projets_home_gallery\1\1-GvGgN.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projets_home_gallery/1/1200-HfJUl.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projets_home_gallery\1\1200-HfJUl.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projets_home_gallery/1/35cc1236-329b-4fe5-a0be-693806318c39.jpeg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projets_home_gallery\1\35cc1236-329b-4fe5-a0be-693806318c39.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projets_home_gallery/1/377745555-821797506077140-1780442334758376807-n.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projets_home_gallery\1\377745555-821797506077140-1780442334758376807-n.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projets_home_gallery/1/4.jpeg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projets_home_gallery\1\4.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projets_home_gallery/1/5-rR6y1.jpeg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projets_home_gallery\1\5-rR6y1.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projets_home_gallery/1/a22-new-1.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projets_home_gallery\1\a22-new-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projets_home_gallery/1/a22-new-2.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projets_home_gallery\1\a22-new-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projets_home_gallery/1/image12.jpeg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projets_home_gallery\1\image12.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projets_home_gallery/1/image22-UeXnW.jpeg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projets_home_gallery\1\image22-UeXnW.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projets_home_gallery/1/image3.jpeg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projets_home_gallery\1\image3.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projets_home_gallery/1/img-1541-8EAv1.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projets_home_gallery\1\img-1541-8EAv1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projets_home_gallery/1/img-20231009-145619-609.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projets_home_gallery\1\img-20231009-145619-609.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projets_home_gallery/1/img-20231009-145621-299.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projets_home_gallery\1\img-20231009-145621-299.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projets_home_gallery/1/img-6640.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projets_home_gallery\1\img-6640.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/projets_home_gallery/1/thumbnail-image0.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\projets_home_gallery\1\thumbnail-image0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/10.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/11.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/1200-1.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\1200-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/1200-2.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\1200-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/1200.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\1200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/13.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/14.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/16.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/17.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\17.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/18.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/19.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\19.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/2.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/20.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\20.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/21.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\21.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/22.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\22.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/23.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\23.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/24.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\24.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/25.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\25.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/28.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\28.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/29.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\29.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/6.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/7.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/8.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/9.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/anatolia-hospitality-wc-hUDss.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\anatolia-hospitality-wc-hUDss.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/heritagehillhotel41631.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\heritagehillhotel41631.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/heritagehillhotel41650.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\heritagehillhotel41650.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/heritagehillhotel41654.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\heritagehillhotel41654.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/heritagehillhotel41709.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\heritagehillhotel41709.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/heritagehillhotel41736.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\heritagehillhotel41736.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/heritagehillhotel41754.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\heritagehillhotel41754.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/heritagehillhotel41759.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\heritagehillhotel41759.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/heritagehillhotel41845.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\heritagehillhotel41845.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/heritagehillhotel41863.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\heritagehillhotel41863.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/l768005.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\l768005.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/l768015.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\l768015.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/modernist-2.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\modernist-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/modernist-3.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\modernist-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/modernist-4.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\modernist-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/onoma-2.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\onoma-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/st-modernist-min.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\st-modernist-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/x7jpgpagespeedictc5xi-rket-142qP.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\x7jpgpagespeedictc5xi-rket-142qP.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/x8-2jpgpagespeedictr1e2oimnu.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\x8-2jpgpagespeedictr1e2oimnu.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/single_project/1/x9jpgpagespeedicqd5rdmhgqk.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\single_project\1\x9jpgpagespeedicqd5rdmhgqk.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/timeline_featured/1/1sfs-7381.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\timeline_featured\1\1sfs-7381.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/timeline_featured/1/eikona-viber-2023-11-01-12-25-25-924.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\timeline_featured\1\eikona-viber-2023-11-01-12-25-25-924.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/timeline_featured/1/image1.jpeg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\timeline_featured\1\image1.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/timeline_featured/1/sfs-7357.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\timeline_featured\1\sfs-7357.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/portal-img/timeline_featured/1/timeline1.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\timeline_featured\1\timeline1.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/portal-img/timeline_featured/1/timeline2.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\portal-img\timeline_featured\1\timeline2.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/privacy-policy
+File Name: D:\Software Development\web-clones\www.papgroup.gr\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/projects
+File Name: D:\Software Development\web-clones\www.papgroup.gr\projects.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/proud-sponsors-of-the-pap-group-summer-basketball-camp-by-savvas-iliadis-116
+File Name: D:\Software Development\web-clones\www.papgroup.gr\proud-sponsors-of-the-pap-group-summer-basketball-camp-by-savvas-iliadis-116.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/sani-asterias-sani-resort-115
+File Name: D:\Software Development\web-clones\www.papgroup.gr\sani-asterias-sani-resort-115.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/savvas-papadopoulos-interview-in-paralaxi-magazine-97
+File Name: D:\Software Development\web-clones\www.papgroup.gr\savvas-papadopoulos-interview-in-paralaxi-magazine-97.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/showroom
+File Name: D:\Software Development\web-clones\www.papgroup.gr\showroom.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/the-architect-show-108
+File Name: D:\Software Development\web-clones\www.papgroup.gr\the-architect-show-108.html
+Content Type: text/html
+
+Uri: https://www.papgroup.gr/uploads/originals/1/1-glasstec-min.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\1-glasstec-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/10.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/1041-hx-fw-diakhoristiko-pistopihtiko-allure-fix-panel.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\1041-hx-fw-diakhoristiko-pistopihtiko-allure-fix-panel.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/1042-hx-fw-diakhoristiko-pistopihtiko-allure-fix-with-frame-door.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\1042-hx-fw-diakhoristiko-pistopihtiko-allure-fix-with-frame-door.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/1077-hx-fw-aries-door-pistopihtiko-v13.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\1077-hx-fw-aries-door-pistopihtiko-v13.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/1078-hx-fw-aries-fix-panel-pistopihtiko-v13.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\1078-hx-fw-aries-fix-panel-pistopihtiko-v13.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/1079-hx-fw-modles-fix-panel-pistopihtiko-v13.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\1079-hx-fw-modles-fix-panel-pistopihtiko-v13.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/1080-hx-fw-modles-door-pistopihtiko-v13.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\1080-hx-fw-modles-door-pistopihtiko-v13.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/1081-hx-fw-allure-door-pistopihtiko-v13.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\1081-hx-fw-allure-door-pistopihtiko-v13.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/11.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/1200-1.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\1200-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/1200-2.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\1200-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/1200.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\1200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/13.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/14.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/16.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/1684493366321-bFsAO.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\1684493366321-bFsAO.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/1684493366321.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\1684493366321.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/1684493366331.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\1684493366331.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/1684493366347.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\1684493366347.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/1684493520299-TLfeN.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\1684493520299-TLfeN.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/17.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\17.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/18.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/19.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\19.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/2-min-1.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\2-min-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/2-nai-image2-1-lVERm.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\2-nai-image2-1-lVERm.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/2-nai-image2-1.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\2-nai-image2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/2.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/20.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\20.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/21.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\21.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/22.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\22.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/23.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\23.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/24.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\24.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/25.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\25.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/28.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\28.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/29.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\29.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/4-n-BCvgq.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\4-n-BCvgq.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/6.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/7.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/8.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/8820f9b2-32bc-439b-8efe-768f59112f3c-min.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\8820f9b2-32bc-439b-8efe-768f59112f3c-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/9.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/9e6a6164.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\9e6a6164.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/anatolia-hospitality-wc-hUDss.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\anatolia-hospitality-wc-hUDss.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/arca-catalogue.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\arca-catalogue.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/basketball-1-of-3.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\basketball-1-of-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/basketball-2-of-3-zubjq.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\basketball-2-of-3-zubjq.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/basketball-3-of-3.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\basketball-3-of-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/bq7a0402.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\bq7a0402.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/bq7a0404.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\bq7a0404.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/bq7a0423.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\bq7a0423.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/bq7a0433.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\bq7a0433.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/certificate-iso-9001-en-pap-group.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\certificate-iso-9001-en-pap-group.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/double-gg12.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\double-gg12.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/edit-swsto-1-of-6-w7vlN.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\edit-swsto-1-of-6-w7vlN.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/edit-swsto-2-of-6-mBr12.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\edit-swsto-2-of-6-mBr12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/edit-swsto-3-of-6-JDVoB.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\edit-swsto-3-of-6-JDVoB.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/edit-swsto-4-of-6-wc9mJ.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\edit-swsto-4-of-6-wc9mJ.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/edit-swsto-5-of-6-zLoUy.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\edit-swsto-5-of-6-zLoUy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/edit-swsto-6-of-6-qtVMH.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\edit-swsto-6-of-6-qtVMH.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/eikona-viber-2021-07-26-14-14-24-067-7kqh8.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\eikona-viber-2021-07-26-14-14-24-067-7kqh8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/eikona-viber-2021-07-26-14-14-25-460.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\eikona-viber-2021-07-26-14-14-25-460.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/eikona-viber-2021-07-26-14-14-26-488.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\eikona-viber-2021-07-26-14-14-26-488.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/eikona-viber-2021-07-26-14-14-27-161.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\eikona-viber-2021-07-26-14-14-27-161.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/eikona-viber-2021-07-26-14-14-27-426.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\eikona-viber-2021-07-26-14-14-27-426.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/eikona-viber-2021-07-26-14-14-27-780.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\eikona-viber-2021-07-26-14-14-27-780.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/f87d5151-c460-42f3-b2eb-513c93767a1c.jpeg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\f87d5151-c460-42f3-b2eb-513c93767a1c.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/gallery4.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\gallery4.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/uploads/originals/1/gallery5.png
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\gallery5.png
+Content Type: image/png
+
+Uri: https://www.papgroup.gr/uploads/originals/1/gf01-AOqCT.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\gf01-AOqCT.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/gf02.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\gf02.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/gg12-soundproof-test.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\gg12-soundproof-test.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/heritagehillhotel41631.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\heritagehillhotel41631.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/heritagehillhotel41650.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\heritagehillhotel41650.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/heritagehillhotel41654.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\heritagehillhotel41654.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/heritagehillhotel41709.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\heritagehillhotel41709.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/heritagehillhotel41736.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\heritagehillhotel41736.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/heritagehillhotel41754.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\heritagehillhotel41754.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/heritagehillhotel41759.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\heritagehillhotel41759.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/heritagehillhotel41845.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\heritagehillhotel41845.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/heritagehillhotel41863.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\heritagehillhotel41863.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/img-1756-min.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\img-1756-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/kta09467.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\kta09467.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/l768005.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\l768005.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/l768015.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\l768015.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/m1-test-report-WG4G2.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\m1-test-report-WG4G2.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/m10-test-report.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\m10-test-report.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/m11-test-report.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\m11-test-report.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/m12-test-report.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\m12-test-report.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/m13-test-report.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\m13-test-report.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/m16-test-report-GW7ap.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\m16-test-report-GW7ap.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/m17-system-gm11-test-report.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\m17-system-gm11-test-report.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/m19-system-gm13-2kn-test-report-pIFoN.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\m19-system-gm13-2kn-test-report-pIFoN.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/m19-system-gm13-3kn-test-report.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\m19-system-gm13-3kn-test-report.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/m3-test-report-FToT5.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\m3-test-report-FToT5.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/m4-test-report.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\m4-test-report.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/m7-test-report-0bWRk.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\m7-test-report-0bWRk.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/m8-test-report-ckEIM.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\m8-test-report-ckEIM.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/minimal-catalogue.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\minimal-catalogue.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/minimal-n-0wFoi.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\minimal-n-0wFoi.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/modernist-2.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\modernist-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/modernist-3.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\modernist-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/modernist-4.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\modernist-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/nai.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\nai.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/onoma-2.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\onoma-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/pap-group-brochure-24.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\pap-group-brochure-24.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/pca-catalogue-2021-5-web-v2.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\pca-catalogue-2021-5-web-v2.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/pca-catalogue-2024.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\pca-catalogue-2024.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/post-1-nai-uinmC.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\post-1-nai-uinmC.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/premium-catalogue-2024.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\premium-catalogue-2024.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/ready-13-L1sbo.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\ready-13-L1sbo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/ready-16.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\ready-16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/ready-18.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\ready-18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/ready-8-kwyfa.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\ready-8-kwyfa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-00120.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-00120.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-00183.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-00183.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-00215.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-00215.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-00251.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-00251.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-00272.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-00272.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-00289.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-00289.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-00314.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-00314.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-00342.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-00342.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-00449.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-00449.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-00476.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-00476.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-00525.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-00525.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-00548.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-00548.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-00643.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-00643.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-00809.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-00809.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-02008-cAG5x.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-02008-cAG5x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-02008.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-02008.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-09747.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-09747.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-09833.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-09833.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-1814-SFH8W.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-1814-SFH8W.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-4263.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-4263.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-4746.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-4746.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-4806.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-4806.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-4810.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-4810.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-4815-t5DiN.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-4815-t5DiN.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-4827.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-4827.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-4854.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-4854.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-7357.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-7357.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sfs-8766.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sfs-8766.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/sparke-catalogue.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\sparke-catalogue.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/st-modernist-min.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\st-modernist-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/terrace-pap-group-2024.pdf
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\terrace-pap-group-2024.pdf
+Content Type: application/pdf
+
+Uri: https://www.papgroup.gr/uploads/originals/1/x7jpgpagespeedictc5xi-rket-142qP.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\x7jpgpagespeedictc5xi-rket-142qP.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/x8-2jpgpagespeedictr1e2oimnu.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\x8-2jpgpagespeedictr1e2oimnu.jpg
+Content Type: image/jpeg
+
+Uri: https://www.papgroup.gr/uploads/originals/1/x9jpgpagespeedicqd5rdmhgqk.jpg
+File Name: D:\Software Development\web-clones\www.papgroup.gr\uploads\originals\1\x9jpgpagespeedicqd5rdmhgqk.jpg
+Content Type: image/jpeg
+
